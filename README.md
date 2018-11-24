@@ -1,4 +1,6 @@
-# Deathmap for the NSS Cyberiad
+# Deathmap project for the Hippiestation
+Based on paradise deathmap.
+
 A webapp for viewing the deaths as a heatmap for the Paradise map.
 It can be viewed [here](http://tastyfish.github.io/paradise-death).
 
